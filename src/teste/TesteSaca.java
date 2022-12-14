@@ -1,3 +1,8 @@
+package teste;
+
+import modelo.Conta;
+import modelo.ContaCorrente;
+
 public class TesteSaca {
   public static void main(String[] args) {
     Conta conta = new ContaCorrente(123, 3121);
