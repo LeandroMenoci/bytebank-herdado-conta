@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8c69128-4ff0-46b3-88cb-de708224ae9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/CalculadorDeImposto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/SaldoInsuficienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/SeguroDeVida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/modelo/Tributavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/teste/TesteContas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/teste/TesteSaca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/teste/TesteTributaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/CalculadorDeImposto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/ContaPoupanca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/SaldoInsuficienteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/SeguroDeVida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Tributavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste/TesteContas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste/TesteSaca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste/TesteTributaveis.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IsvwGZFrWpbcrHtIHZF7fu10EE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "I:/Alura_gb.tech_/Java/bytebank-herdado-conta",
+    "settings.editor.selected.configurable": "xpath.settings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8c69128-4ff0-46b3-88cb-de708224ae9e" name="Changes" comment="" />
+      <created>1670983341874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670983341874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

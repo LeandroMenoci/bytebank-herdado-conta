@@ -1,4 +1,10 @@
-package modelo;
+package br.com.bytebank.banco.modelo;
+
+/*
+ * Classe representa a moldura de uma conta
+ * 
+ * @author Leandro Menoci
+ */
 
 public abstract class Conta {
 
