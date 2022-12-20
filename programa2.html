@@ -1,0 +1,44 @@
+<canvas width="600"  height="400"></canvas>
+
+<script>
+    var tela = document.querySelector('canvas');
+    var pincel = tela.getContext('2d');
+
+    pincel.fillStyle = 'grey';
+    pincel.fillRect(0, 0, 600, 400);
+
+    // function corAleatória (){
+    // 	// var valoresRGB = [100, 200, 80, 75, 45, 255, 150, 10, 12];  	
+    	
+    // 	var aleatoriosRGB = Math.floor(Math.random()*255);
+
+    // 	console.log ("é " + aleatoriosRGB);
+    	
+    //     return aleatoriosRGB;
+    // }
+    
+
+
+    function exibeCirculo (evento) {
+
+    //para tirar o espaço entre o retângulo e a tela, será subtraido "tela.offsetLeft" e o offsetTop para parte de cima Y
+    	var x = evento.pageX - tela.offsetLeft;
+    	var y = evento.pageY - tela.offsetTop;
+        let aleatorio1 = Math.floor(Math.random()*255)
+        let aleatorio2 = Math.floor(Math.random()*255)
+        let aleatorio3 = Math.floor(Math.random()*255)
+        let rgb = `rgb(${aleatorio1}, ${aleatorio2} , ${aleatorio3}, 0.5)`
+
+    	pincel.fillStyle = rgb;
+        console.log('A cor atual é: ' + pincel.fillStyle)
+    	pincel.beginPath();
+    	pincel.arc(x, y, 10, 0, 2 * 3.14);
+    	pincel.fill();
+
+    	console.log (x + ',' + y);
+    	
+    }
+// a função é colocada sem () pois só será executada quando clicada. Se colocar "exibeAlerta()" a caixa aparece no início 
+    tela.onclick = exibeCirculo;
+
+</script>

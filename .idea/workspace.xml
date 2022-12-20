@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8c69128-4ff0-46b3-88cb-de708224ae9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/CalculadorDeImposto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/ContaCorrente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/ContaPoupanca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/SaldoInsuficienteException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/SeguroDeVida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/modelo/Tributavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/teste/TesteContas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/teste/TesteSaca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/teste/TesteTributaveis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/CalculadorDeImposto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/ContaPoupanca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/SaldoInsuficienteException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/SeguroDeVida.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/Tributavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste/TesteContas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste/TesteSaca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste/TesteTributaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/CalculadorDeImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/CalculadorDeImposto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IsvwGZFrWpbcrHtIHZF7fu10EE" />
   <component name="ProjectViewState">
@@ -45,8 +27,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "I:/Alura_gb.tech_/Java/bytebank-herdado-conta",
-    "settings.editor.selected.configurable": "xpath.settings"
+    "last_opened_file_path": "I:/Alura_gb.tech_/Java/bytebank-composto",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,5 +52,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
